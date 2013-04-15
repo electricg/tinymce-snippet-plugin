@@ -1,0 +1,10 @@
+tiny_mce/*
+!tiny_mce/plugins/
+tiny_mce/plugins/*
+!tiny_mce/plugins/snippet/
+
+
+# OS or Editor folders
+.DS_Store
+._*
+Thumbs.db

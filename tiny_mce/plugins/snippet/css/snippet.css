@@ -1,0 +1,37 @@
+/* Split and Menu button, list */
+.snippet_list .mce_delicious, .delicious .mceIcon {
+	background-image: url("../img/delicious.png") !important;
+}
+.snippet_list .mce_twitter, .twitter .mceIcon {
+	background-image: url("../img/twitter.png") !important;
+}
+.snippet_list .mce_external, .external .mceIcon {
+	background-image: url("../img/external.png") !important;
+}
+.snippet_list .mce_facebook, .facebook .mceIcon {
+	background-image: url("../img/facebook.png") !important;
+}
+.snippet_list .mce_google, .google .mceIcon {
+	background-image: url("../img/google.png") !important;
+}
+.snippet_list .mce_reddit, .reddit .mceIcon {
+	background-image: url("../img/reddit.png") !important;
+}
+.snippet_list .mce_digg, .digg .mceIcon {
+	background-image: url("../img/digg.png") !important;
+}
+.snippet_list .mce_stumbleupon, .stumbleupon .mceIcon {
+	background-image: url("../img/stumbleupon.png") !important;
+}
+.snippet_list .mce_myspace, .myspace .mceIcon {
+	background-image: url("../img/myspace.png") !important;
+}
+/* List box */
+td.snippet_list .mceIcon {
+	background-position: right center !important;
+	background-repeat: no-repeat !important;
+	width: 22px !important;
+}
+td.snippet_list .mceText {
+	padding-left: 25px !important;
+}
