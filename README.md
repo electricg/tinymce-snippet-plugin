@@ -6,13 +6,25 @@ See the [live demo](http://giugee.com/demo/tinymce-snippet-plugin/).
 
 This plugin works with TinyMCE version 3.x.
 
-Three different buttons are available:
+Four different buttons are available:
 
-* dropdown menu ![image](screenshot1.png)
-* normal dropdown button ![image](screenshot3.png)
-* dropdown button that inserts the last selected value on click ![image](screenshot2.png)
+* dropdown menu `snippetlistbox`
 
-It is also possible to personalize the menu through stylesheet and icons ![image](screenshot4.png)
+![image](screenshot1.png)
+
+* normal dropdown button `snippetmenubtn`
+
+![image](screenshot3.png)
+
+* normal dropdown button with icons `snippetmenubtnicon`
+
+![image](screenshot4.png)
+
+* dropdown button that inserts the last selected value on click `snippetsplitbtn`
+
+![image](screenshot2.png)
+
+It is also possible to personalize the menu through stylesheet and icons.
 
 ## Configuration
 
