@@ -59,3 +59,6 @@ The data source is an array of objects containing three properties:
 			{ title: "Stumbleupon",	value: "[stumbleupon tag]",	cls: "stumbleupon" },
 			{ title: "Myspace",		value: "[myspace tag]",		cls: "myspace"     }
 		];
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-35209681-4/tinymce-snippet-plugin/readme?pixel)](https://github.com/igrigorik/ga-beacon)
